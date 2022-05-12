@@ -27,15 +27,15 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:zoom="1.28"
-     inkscape:cx="304.6875"
-     inkscape:cy="224.21875"
+     inkscape:zoom="2.56"
+     inkscape:cx="206.25"
+     inkscape:cy="102.34375"
      inkscape:window-width="2256"
      inkscape:window-height="1398"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="text530-2-4-2-5-5-0"
      units="px"
      width="191.2131mm" />
   <defs
@@ -56,59 +56,46 @@
        id="g132-3-7-9-4"
        transform="matrix(0.01333296,0,0,-0.01333296,-51.257736,59.604982)"
        style="fill:#0d0d0d;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="4321.3071"
-         y="248.23709"
+      <g
+         aria-label="L"
+         transform="scale(1,-1)"
          id="text530-7-1-5-4-6-0"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-0-80-5-7-5-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke-width:7.5"
-           x="4321.3071"
-           y="248.23709">L</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="4633.0713"
-         y="248.23709"
+         style="font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variation-settings:'wght' 450;stroke-width:7.5">
+        <path
+           d="M 4353.2271,248.23709 V 52.237091 h 20.72 V 230.31709 h 109.76 v 17.92 z"
+           id="path1093" />
+      </g>
+      <g
+         aria-label="A"
+         transform="scale(1,-1)"
          id="text530-7-14-8-4-5-7"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-0-9-5-2-3-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke-width:7.5"
-           x="4633.0713"
-           y="248.23709">A</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="4942.3154"
-         y="248.23709"
+         style="font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variation-settings:'wght' 450;stroke-width:7.5">
+        <path
+           d="m 4633.6313,248.23709 89.6,-195.999999 h 20.44 l 89.6,195.999999 h -21.84 l -82.32,-183.959999 h 8.4 l -82.32,183.959999 z m 35.28,-52.36 6.16,-16.8 h 113.96 l 6.16,16.8 z"
+           id="path1096" />
+      </g>
+      <g
+         aria-label="B"
+         transform="scale(1,-1)"
          id="text530-7-0-9-4-4-6"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-0-1-9-2-5-8"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke-width:7.5"
-           x="4942.3154"
-           y="248.23709">B</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="5251.2793"
-         y="251.79666"
+         style="font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variation-settings:'wght' 450;stroke-width:7.5">
+        <path
+           d="M 4974.2354,248.23709 V 52.237091 h 84.56 q 32.76,0 50.68,13.16 18.2,13.16 18.2,37.239999 0,15.96 -7.56,26.88 -7.28,10.92 -20.16,16.52 -12.6,5.6 -27.72,5.6 l 4.76,-6.72 q 18.76,0 32.2,5.88 13.72,5.6 21.28,17.08 7.56,11.2 7.56,28 0,24.92 -18.48,38.64 -18.2,13.72 -55.16,13.72 z m 20.72,-17.08 h 69.16 q 25.76,0 39.48,-8.68 13.72,-8.96 13.72,-28.28 0,-19.04 -13.72,-27.72 -13.72,-8.96 -39.48,-8.96 h -71.4 v -17.08 h 64.68 q 23.52,0 36.4,-8.96 13.16,-8.96 13.16,-26.6 0,-17.919999 -13.16,-26.599999 -12.88,-8.96 -36.4,-8.96 h -62.44 z"
+           id="path1099" />
+      </g>
+      <g
+         aria-label="S"
+         transform="scale(1,-1)"
          id="text530-7-2-0-1-4-1"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-0-13-7-6-2-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:280px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 450;fill:#0d0d0d;fill-opacity:1;stroke-width:7.5"
-           x="5251.2793"
-           y="251.79666">S</tspan></text>
-      <text
-         xml:space="preserve"
+         style="font-size:280px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=450';font-variation-settings:'wght' 450;stroke-width:7.5">
+        <path
+           d="m 5337.2393,253.47666 q -21.84,0 -42,-7 -19.88,-7.28 -30.8,-18.48 l 8.12,-15.96 q 10.36,10.08 27.72,17.08 17.64,6.72 36.96,6.72 18.48,0 29.96,-4.48 11.76,-4.76 17.08,-12.6 5.6,-7.84 5.6,-17.36 0,-11.48 -6.72,-18.48 -6.44,-7 -17.08,-10.92 -10.64,-4.2 -23.52,-7.28 -12.88,-3.08 -25.76,-6.44 -12.88,-3.64 -23.8,-9.52 -10.64,-5.88 -17.36,-15.4 -6.44,-9.8 -6.44,-25.48 0,-14.559999 7.56,-26.599999 7.84,-12.32 23.8,-19.6 15.96,-7.56 40.88,-7.56 16.52,0 32.76,4.76 16.24,4.48 28,12.6 l -7,16.52 q -12.6,-8.4 -26.88,-12.32 -14,-3.92 -27.16,-3.92 -17.64,0 -29.12,4.76 -11.48,4.76 -17.08,12.88 -5.32,7.84 -5.32,17.919999 0,11.48 6.44,18.48 6.72,7 17.36,10.92 10.92,3.92 23.8,7 12.88,3.08 25.48,6.72 12.88,3.64 23.52,9.52 10.92,5.6 17.36,15.12 6.72,9.52 6.72,24.92 0,14.28 -7.84,26.6 -7.84,12.04 -24.08,19.6 -15.96,7.28 -41.16,7.28 z"
+           id="path1102" />
+      </g>
+      <g
          transform="matrix(7.5000002,0,0,-7.5000002,0,1039.1225)"
          id="text3026-9-0-7-6"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3028-5-4-2-5);fill:#0d0d0d;fill-opacity:1;stroke:none" />
+         style="font-size:40px;line-height:1.25;white-space:pre;shape-inside:url(#rect3028-5-4-2-5)" />
     </g>
     <g
        id="g30081"
@@ -134,78 +121,60 @@
        id="g8440-6"
        transform="matrix(0.01333296,0,0,-0.01333296,28.640031,-38.797927)"
        style="fill:#0d0d0d;fill-opacity:1">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="-4241.4194"
-         y="7251.2241"
+      <g
+         aria-label="F"
+         transform="scale(1,-1)"
          id="text530-2-4-2-5-99"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-6-1-3-3-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-           x="-4241.4194"
-           y="7251.2241">F</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="-3594.6353"
-         y="7251.2241"
+         style="font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variation-settings:'wght' 600;stroke-width:7.5">
+        <path
+           d="m -4131.6194,7031.0141 h 225.7 v 39.04 h -225.7 z m 4.88,220.21 h -45.14 v -427 h 292.8 v 39.04 h -247.66 z"
+           id="path1106" />
+      </g>
+      <g
+         aria-label="O"
+         transform="scale(1,-1)"
          id="text530-2-4-2-5-6-7"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-6-1-3-3-9-3"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-           x="-3594.6353"
-           y="7251.2241">O</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="-2860.6216"
-         y="7251.2241"
+         style="font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variation-settings:'wght' 600;stroke-width:7.5">
+        <path
+           d="m -3338.4353,7254.8841 q -48.19,0 -89.67,-15.86 -40.87,-16.47 -71.37,-45.75 -29.89,-29.89 -46.97,-68.93 -16.47,-39.65 -16.47,-86.62 0,-46.97 16.47,-86.01 17.08,-39.65 46.97,-68.93 30.5,-29.89 71.37,-45.75 40.87,-16.47 89.67,-16.47 48.19,0 89.06,16.47 40.87,15.86 70.76,45.14 30.5,29.28 46.97,68.93 17.08,39.65 17.08,86.62 0,46.97 -17.08,86.62 -16.47,39.65 -46.97,68.93 -29.89,29.28 -70.76,45.75 -40.87,15.86 -89.06,15.86 z m 0,-40.26 q 38.43,0 70.76,-12.81 32.94,-13.42 56.73,-37.21 24.4,-24.4 37.82,-56.12 13.42,-32.33 13.42,-70.76 0,-38.43 -13.42,-70.15 -13.42,-32.33 -37.82,-56.12 -23.79,-24.4 -56.73,-37.21 -32.33,-13.42 -70.76,-13.42 -38.43,0 -71.37,13.42 -32.94,12.81 -57.34,37.21 -23.79,23.79 -37.82,56.12 -13.42,31.72 -13.42,70.15 0,37.82 13.42,70.15 14.03,32.33 37.82,56.73 24.4,23.79 57.34,37.21 32.94,12.81 71.37,12.81 z"
+           id="path1109" />
+      </g>
+      <g
+         aria-label="R"
+         transform="scale(1,-1)"
          id="text530-2-4-2-5-4-8"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-6-1-3-3-1-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-           x="-2860.6216"
-           y="7251.2241">R</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="-2191.2678"
-         y="7251.2241"
+         style="font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variation-settings:'wght' 600;stroke-width:7.5">
+        <path
+           d="m -2791.0816,7251.2241 v -427 h 159.82 q 54.29,0 93.33,17.69 39.04,17.08 59.78,50.02 21.35,32.33 21.35,78.69 0,45.14 -21.35,78.08 -20.74,32.33 -59.78,50.02 -39.04,17.08 -93.33,17.08 h -134.81 l 20.13,-20.74 v 156.16 z m 291.58,0 -109.8,-154.94 h 48.8 l 110.41,154.94 z m -246.44,-152.5 -20.13,-21.35 h 133.59 q 64.05,0 96.99,-28.06 33.55,-28.06 33.55,-78.69 0,-51.24 -33.55,-79.3 -32.94,-28.06 -96.99,-28.06 h -133.59 l 20.13,-21.35 z"
+           id="path1112" />
+      </g>
+      <g
+         aria-label="M"
+         transform="scale(1,-1)"
          id="text530-2-4-2-5-9-7"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-6-1-3-3-3-7"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-           x="-2191.2678"
-           y="7251.2241">M</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="-1419.4337"
-         y="7251.2241"
+         style="font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variation-settings:'wght' 600;stroke-width:7.5">
+        <path
+           d="m -2121.7278,7251.2241 v -427 h 37.21 l 195.2,333.06 h -19.52 l 193.37,-333.06 h 37.21 v 427 h -43.31 v -359.29 h 10.37 l -178.12,305 h -21.35 l -179.34,-305 h 11.59 v 359.29 z"
+           id="path1115" />
+      </g>
+      <g
+         aria-label="I"
+         transform="scale(1,-1)"
          id="text530-2-4-2-5-3-7"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-6-1-3-3-5-6"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-           x="-1419.4337"
-           y="7251.2241">I</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-         x="-1005.06"
-         y="7251.2241"
+         style="font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variation-settings:'wght' 600;stroke-width:7.5">
+        <path
+           d="m -1349.8937,7251.2241 v -427 h 45.14 v 427 z"
+           id="path1118" />
+      </g>
+      <g
+         aria-label="C"
+         transform="scale(1,-1)"
          id="text530-2-4-2-5-5-0"
-         transform="scale(1,-1)"><tspan
-           sodipodi:role="line"
-           id="tspan528-6-1-3-3-0-4"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:610px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:7.5"
-           x="-1005.06"
-           y="7251.2241">C</tspan></text>
+         style="font-size:610px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, @wght=600';font-variation-settings:'wght' 600;stroke-width:7.5">
+        <path
+           d="m -750.08,7254.8841 q -48.19,0 -89.06,-15.86 -40.87,-16.47 -70.76,-45.75 -29.89,-29.28 -46.97,-68.93 -16.47,-39.65 -16.47,-86.62 0,-46.97 16.47,-86.62 17.08,-39.65 46.97,-68.93 30.5,-29.28 71.37,-45.14 40.87,-16.47 89.06,-16.47 46.36,0 87.23,15.86 40.87,15.25 68.93,46.36 l -28.67,28.67 q -26.23,-26.84 -57.95,-38.43 -31.72,-12.2 -68.32,-12.2 -38.43,0 -71.37,13.42 -32.94,12.81 -57.34,37.21 -24.4,23.79 -38.43,56.12 -13.42,31.72 -13.42,70.15 0,38.43 13.42,70.76 14.03,31.72 38.43,56.12 24.4,23.79 57.34,37.21 32.94,12.81 71.37,12.81 36.6,0 68.32,-12.2 31.72,-12.2 57.95,-39.04 l 28.67,28.67 q -28.06,31.11 -68.93,46.97 -40.87,15.86 -87.84,15.86 z"
+           id="path1121" />
+      </g>
     </g>
   </g>
 </svg>
