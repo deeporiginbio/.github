@@ -1,11 +1,3 @@
-![Logo](https://raw.githubusercontent.com/formiclabs/.github/main/profile/banner.svg)
+We help scientists solve disease and extend healthspan by building tools that simplify R&D, simulate biology, and untangle the complexity of life. Streamline computational analysis today. Simulate biology tomorrow.
 
-Formic Labs is a startup which aims to accelerate biology R&D.
-
-More information:
-* [Website](https://formiclabs.io)
-* [Product](https://os.formiclabs.io)
-* [Documentation](https://docs.formiclabs.io)
-* [Support desk](https://formiclabs.atlassian.net/servicedesk/customer/portals)
-* [Feedback and input portal](https://portal.productboard.com/hggvulqz8ozydk4vuq48ekh5)
-* [Jobs](https://www.linkedin.com/company/formic-labs/jobs/)
+Learn more at [https://deeporigin.com](https://deeporigin.com).
