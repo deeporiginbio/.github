@@ -1,2 +1,2 @@
-# Public profile of Formic Labs within GitHub
-This repository defines Formic Labs' public profile in GitHub. This profile is visible at https://github.com/formiclabs.
+# Public profile of Deep Origin within GitHub
+This repository defines Deep Origin's public profile in GitHub. This profile is visible at https://github.com/deeporiginbio.
