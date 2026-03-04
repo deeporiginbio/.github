@@ -13,6 +13,7 @@ jobs:
       contents: read
       pull-requests: write
       issues: write
+      actions: read
     steps:
       - uses: anthropics/claude-code-action@v1
         with:
