@@ -1,20 +1,19 @@
-name: Claude Code
+name: Claude Code (Reusable)
+
 on:
   workflow_call:
     secrets:
-      ANTHROPIC_API_KEY:
+      anthropic_api_key:
         required: true
-
-permissions:
-  contents: read
-  pull-requests: write
-  issues: write
-  id-token: write
 
 jobs:
   claude:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+      issues: write
     steps:
       - uses: anthropics/claude-code-action@v1
         with:
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          anthropic_api_key: ${{ secrets.anthropic_api_key }}
