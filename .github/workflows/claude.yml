@@ -2,6 +2,12 @@ name: Claude Code (Reusable)
 
 on:
   workflow_call:
+    inputs:
+      prompt:
+        description: Custom prompt for Claude
+        required: false
+        type: string
+        default: ""
     secrets:
       anthropic_api_key:
         required: true
@@ -22,3 +28,4 @@ jobs:
       - uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.anthropic_api_key }}
+          prompt: ${{ inputs.prompt }}
